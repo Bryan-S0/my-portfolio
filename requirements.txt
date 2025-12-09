@@ -1,5 +1,5 @@
 Flask==3.0
-reportlab==3.0.3
+reportlab==3.0
 Werkzeug==4.0.9
 click==8.1.7
 itsdangerous==2.1.2
